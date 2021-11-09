@@ -1,0 +1,11 @@
+Exploratory Data Analysis - EDA project
+
+Fichero de notas sobre el proyecto.
+He descargado este set de datos de kaggle: https://www.kaggle.com/akashdeepkuila/bakery/version/1
+
+Resumen:
+
+Este set de datos es de "The Bread Basket", una panadería situada en Edimburgo. 
+El conjunto de datos proporciona los detalles de las transacciones de los clientes que pidieron diferentes artículos de esta panadería OnLine durante el periodo de tiempo comprendido entre 2016-11-01 hasta 2017-12-03.
+
+
