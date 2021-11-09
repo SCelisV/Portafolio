@@ -8,4 +8,39 @@ Resumen:
 Este set de datos es de "The Bread Basket", una panadería situada en Edimburgo. 
 El conjunto de datos proporciona los detalles de las transacciones de los clientes que pidieron diferentes artículos de esta panadería OnLine durante el periodo de tiempo comprendido entre 2016-11-01 hasta 2017-12-03.
 
+Se trata de realizar un analisis exploratorio (minería), de los datos para comprender y responder visualizaciones preguntas como:
+
+Un Top five de productos.
+
+
+El conjunto de datos tiene 20507 entradas, más de 9000 transacciones y 4 columnas.
+
+TransactionNo : identificador único para cada transacción
+    Artículos : artículos comprados - items
+     DateTime : fecha y hora de las transacciones - formato 
+      Daypart : parte del día en que se realiza una transacción (mañana, tarde, noche)
+      DayType : clasifica si una transacción se ha realizado en fin de semana o entre semana 
+
+
++-------------------------------------------------------------------------------------------------------------------+
+Haciendo un sumary del fichero:
+
+[20507 rows x 5 columns]
+       TransactionNo
+count   20507.000000
+mean     4976.202370
+std      2796.203001
+min         1.000000
+25%      2552.000000
+50%      5137.000000
+75%      7357.000000
+max      9684.000000
+
++-------------------------------------------------------------------------------------------------------------------+
+
+Herramientas Utilizadas: 
+
+Qlik
+Python
+
 
